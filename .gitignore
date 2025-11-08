@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+env/
+venv/
+.idea/
+.vscode/
+*.pyo
+*.pyd
+dist/
+build/
+assets/demo.gif
